@@ -1,2 +1,2 @@
 from qaviton_git import *
-print(git('commit -am auto'))
+print(git('commit -am "rak maccabi'))
